@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+.pytest_cache/
+*.pyc
+.DS_Store
+
+# Never commit credentials or tokens
+client_secret*.json
+token*.json
+tokens/
+*.duplicate
