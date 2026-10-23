@@ -21,3 +21,7 @@ enabled and your Gmail addresses added as test users; see `connector/README.md`.
 - Your OAuth client file and tokens live in `~/.config/gmail-mcp/`, outside this repository. Never commit them.
 - The server only reads mail, and only on your machine. Nothing is sent anywhere except to Google's Gmail API.
 - In Google's Testing mode, tokens expire after about 7 days; rerun the sign-in command when that happens.
+
+## License
+
+MIT, see `LICENSE`.
