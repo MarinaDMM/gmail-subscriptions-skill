@@ -24,4 +24,4 @@ enabled and your Gmail addresses added as test users; see `connector/README.md`.
 
 ## License
 
-MIT, see `LICENSE`.
+MIT. See [LICENSE](LICENSE).
